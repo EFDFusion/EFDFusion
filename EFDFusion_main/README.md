@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <img src="Fig/framework.png" alt="fig1" width="1000"/>
+    <img src="fig/framework.png" alt="fig1" width="1000"/>
 </p>
 
 <h4 align="center"> 🎖️ EFDFusion Framework
@@ -22,7 +22,7 @@ Our contributions are summarized as follows:
 🌟 Employing a weight-sharing cascaded pattern in multi-stage training, our method achieves low resource consumption and high efficiency in the testing phase.
 
 <p align="center">
-    <img src="Fig/loss.png" alt="fig2" width="1000"/>
+    <img src="fig/loss.png" alt="fig2" width="1000"/>
 </p>
 
 <h4 align="center"> 🎖️ The principle of feature difference mechanism.
@@ -40,7 +40,7 @@ Our contributions are summarized as follows:
 
 ### 🔥 2. Testing
 <p align="center">
-    <img src="Fig/fig3-b.png" alt="fig3" width="700"/>
+    <img src="fig/fig3-b.png" alt="fig3" width="700"/>
 </p>
 
 Our code requires `Python>=3.8`
